@@ -5,15 +5,3 @@ It is kind of messy, does not have that much value but was a learning experience
 Alongside this project I learned about networking in school and read a lot about how TCP and other networking concepts behave. 
 
 This will work as a skeleton for further network related programming projects for myself.
-
-### What I learned:
-- Initializing Winsock
-- Creating and connecting TCP sockets
-- Handling error codes
-- Using `inet_addr` and `htons`
-- Became interested about networking
-
-### To improve:
-- Handle timeouts and retries
-- Make a proper HTTP or file transfer client
-- Overall code quality
