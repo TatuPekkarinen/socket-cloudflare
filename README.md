@@ -1,5 +1,2 @@
-# Basic TCP Client
-
-Simple TCP client that uses Winsock to connect to an external server (Cloudflare at 1.1.1.1 on port 443). It doesn't do much it just tries to connect and prints whether it succeeded or failed.
-It is kind of messy, does not have that much value but was a learning experience to dive into other libraries than the standard ones. 
-Alongside this project I learned about networking in school and read a lot about how TCP and other networking concepts behave. 
+# Cloudflare Socket
+My first application (aside from the classic calculator and such). Socket is initialized utilizing winsock library and afterwards connects to Cloudflare (1.1.1.1). Learn about networking, sockets, tcp, protocols and C-syntax.
